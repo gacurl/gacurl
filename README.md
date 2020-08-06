@@ -20,12 +20,15 @@ I intend to step foot on every continent. Here's where I've been so far.
 ![World map where I've visited](https://github.com/gacurl/gacurl/blob/master/world-map.gif)
 
 ---
+
 As for books, I enjoy reads that stimulate emotion as well as learning. No particular genre suits more than another, so bring 'em all. I've been known to sending meaningful books that _impacted_ me to friends and colleagues.
 
 [Here's what I'm reading](https://www.goodreads.com/review/list/37345834?ref=nav_mybooks "Goodreads list") at Goodreads.
 
 ![Cozy reading spot](https://github.com/gacurl/gacurl/blob/master/library.jpg)
+
 ---
+
 Spending time away from the screen gives thoughts time to anchor. Get away for a spell and try again later.
 ![Fjords](https://github.com/gacurl/gacurl/blob/master/outside.jpg)
 ---
