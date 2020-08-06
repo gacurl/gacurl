@@ -3,7 +3,7 @@ s<!--
 
 # Hi, I'm Greg.
 
-** I **love** coffee and learning to `code`.
+## I **love** coffee and learning to `code`.
 
 ![Cup of coffee!](https://github.com/gacurl/gacurl/blob/master/cupa.jpg?raw=true) Nectar of the Gods
 
