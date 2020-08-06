@@ -3,11 +3,14 @@
 
 # Hi, I'm Greg.
 
-![Cup of coffee!](https://github.com/gacurl/gacurl/cupa.jpg "nectar of the Gods")
+![Cup of coffee!](https://github.com/gacurl/gacurl/blob/master/cupa.jpg?raw=true) Nectar of the Gods
 
 ## I like coffee and code.
 
-I'm learning to front-end Web Development with **VetsWhoCode**. 
+I'm learning Web Development with **VetsWhoCode**.
+
+I'm a Dad,
+a husband
 
 
 
