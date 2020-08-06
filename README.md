@@ -1,10 +1,17 @@
+<!--
+**gacurl/gacurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 # Hi, I'm Greg.
+
+![Cup of coffee!](https://github.com/gacurl/gacurl/cupa.jpg "nectar of the Gods")
+
 ## I like coffee and code.
 
+I'm learning to front-end Web Development with **VetsWhoCode**. 
 
 
-<!--
-**gacurl/gacurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
