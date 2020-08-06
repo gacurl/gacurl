@@ -24,7 +24,7 @@ As for books, I enjoy sending meaningful books that _impacted_ me to friends and
 
 [Here's what I'm reading](https://www.goodreads.com/review/list/37345834?ref=nav_mybooks "Goodreads list") at Goodreads.
 
-<span><img src="https://github.com/gacurl/gacurl/blob/master/library.jpg" alt="Cozy reading spot" float="right" width="100%" height="100px"></span>
+![Cozy reading spot](https://github.com/gacurl/gacurl/blob/master/library.jpg)
 ---
 
 
