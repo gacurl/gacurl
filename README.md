@@ -3,27 +3,23 @@
 
 # Hi, I'm Greg.
 
+## I like coffee and code.
+
 ![Cup of coffee!](https://github.com/gacurl/gacurl/blob/master/cupa.jpg?raw=true) Nectar of the Gods
 
-## I like coffee and code.
+
 
 I'm learning Web Development with **VetsWhoCode**.
 
-I'm a Dad,
-a husband
+I'm a Dad,  
+a husband,  
+and a US Navy veteran.  
+
+I spend my time getting a _little_ bit better each day.  
+
+My passions are:  
+- learning,
+- building teams, and
+- helping others succeed.
 
 
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
