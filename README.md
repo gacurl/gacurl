@@ -27,8 +27,8 @@ As for books, I enjoy reads that stimulate emotion as well as learning. No parti
 ![Cozy reading spot](https://github.com/gacurl/gacurl/blob/master/library.jpg)
 ---
 
-
+Spending time away from the screen gives thoughts time to anchor. Get away for a spell and try again later.
+![Fjords](https://github.com/gacurl/gacurl/blob/master/outside.jpg)
+---
 > The two most important days in your life are the day you are born and the day you find out why.
 >> _Mark Twain_
-
-
