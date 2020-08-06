@@ -18,6 +18,8 @@ When not building ships or code, I enjoy traveling, reading, and being outdoors.
 I intend to step foot on every continent. 
 ![World Map of countries I've visited](https://github.com/gacurl/gacurl/blob/master/world-map.gif)
 
+<p><img src="https://github.com/gacurl/gacurl/blob/master/world-map.gif" alt="test" width="100" height="200"></p>
+
 As for books, I enjoy sending meaningful books that _impacted_ me to friends and colleagues.
 
 [Here's what I'm reading.](https://www.goodreads.com/review/list/37345834?ref=nav_mybooks "Goodreads list")
