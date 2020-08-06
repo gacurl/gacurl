@@ -15,8 +15,7 @@ I'm a Dad, husband, and US Navy veteran. I wake each day to get a _little_ bit b
 
 When not building ships or code, I enjoy traveling, reading, and being outdoors.  
 
-I intend to step foot on every continent. 
-![World Map of countries I've visited](https://github.com/gacurl/gacurl/blob/master/world-map.gif)
+I intend to step foot on every continent. Here's where I've been so far.  
 
 <p><img src="https://github.com/gacurl/gacurl/blob/master/world-map.gif" alt="test" width="100%" height="auto"></p>
 
