@@ -5,7 +5,7 @@
 
 ## I **love** coffee and learning to `code`.
 
-![Cup of coffee!](https://github.com/gacurl/gacurl/blob/master/cupa.jpg?raw=true) _Nectar_ of the Gods
+![Cup of coffee!](https://github.com/gacurl/gacurl/cupa.jpg) _Nectar_ of the Gods
 
 
 Thanks for stopping by. I build aircraft carriers while learning Web Development with **[#VetsWhoCode](https:https://vetswhocode.io/)**.
