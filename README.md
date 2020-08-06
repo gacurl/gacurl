@@ -17,14 +17,14 @@ When not building ships or code, I enjoy traveling, reading, and being outdoors.
 ---
 I intend to step foot on every continent. Here's where I've been so far.  
 
-<img src="https://github.com/gacurl/gacurl/blob/master/world-map.gif" alt="test" width="100%" height="auto" />
+<span><img src="https://github.com/gacurl/gacurl/blob/master/world-map.gif" alt="test" width="100%" height="auto" /></span>
 
 ---
 As for books, I enjoy sending meaningful books that _impacted_ me to friends and colleagues.
 
-[Here's what I'm reading.](https://www.goodreads.com/review/list/37345834?ref=nav_mybooks "Goodreads list") at Goodreads.
+[Here's what I'm reading](https://www.goodreads.com/review/list/37345834?ref=nav_mybooks "Goodreads list") at Goodreads.
 
-![Cozy reading spot](https://github.com/gacurl/gacurl/blob/master/library.jpg)
+<span><img src="https://github.com/gacurl/gacurl/blob/master/library.jpg" alt="Cozy reading spot" float="right" width="100%"></span>
 ---
 
 
