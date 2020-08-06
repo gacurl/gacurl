@@ -34,9 +34,9 @@ Spending time away from the screen gives thoughts time to anchor. Get away for a
 ![Fjords](https://github.com/gacurl/gacurl/blob/master/outside.jpg)
 ---
 
-:envelope: Let's connect  
-:bird: [My dang ol' Twitter](https://twitter.com/GregCurl)  
-:information_desk_person: [My dang ol' LinkedIn](https://www.linkedin.com/in/gcurl)
+:envelope:  Let's connect  
+:bird:  [My dang ol' Twitter](https://twitter.com/GregCurl)  
+:information_desk_person:  [My dang ol' LinkedIn](https://www.linkedin.com/in/gcurl)
 
 Since you've stopped by, take a walk **outside** and consider:
 > The two most important days in your life are the day you are born and the day you find out why.
