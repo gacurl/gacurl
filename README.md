@@ -1,21 +1,17 @@
-<!--
+s<!--
 **gacurl/gacurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Hi, I'm Greg.
 
-## I like coffee and code.
+** I **love** coffee and learning to `code`.
 
 ![Cup of coffee!](https://github.com/gacurl/gacurl/blob/master/cupa.jpg?raw=true) Nectar of the Gods
 
 
+Thanks for stopping by. I build aircraft carriers while learning Web Development with **[#VetsWhoCode](https:https://vetswhocode.io/)**.
 
-I'm learning Web Development with **VetsWhoCode**.
-
-I'm a Dad,  
-a husband,  
-and a US Navy veteran.  
-
-I spend my time getting a _little_ bit better each day.  
+#### Talking about personal stuff
+I'm a Dad, husband, US Navy veteran. I wake each day to get a _little_ bit better.  
 
 My passions are:  
 - learning,
