@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, I'm Greg.
+## I like coffee and code.
+
+
 
 <!--
 **gacurl/gacurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
