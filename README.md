@@ -20,8 +20,9 @@ I intend to step foot on every continent.
 
 As for books, I enjoy sending meaningful books that _impacted_ me to friends and colleagues.
 
-[Here's what I'm reading](https://www.goodreads.com/review/list/37345834?ref=nav_mybooks "Goodreads list") <img align="right" src="https://github.com/gacurl/gacurl/blob/master/library.jpg">
-[Cozy reading spot](https://github.com/gacurl/gacurl/blob/master/library.jpg)
+[Here's](https://www.goodreads.com/review/list/37345834?ref=nav_mybooks "Goodreads list") what I'm reading.
+
+[Cozy reading spot]("https://github.com/gacurl/gacurl/blob/master/library.jpg")
 
 
 
