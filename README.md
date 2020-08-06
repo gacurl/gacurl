@@ -33,5 +33,8 @@ Spending time away from the screen gives thoughts time to anchor. Get away for a
 
 ![Fjords](https://github.com/gacurl/gacurl/blob/master/outside.jpg)
 ---
+
+:envelope: Let's connect
+:bird: [Twitter](https://twitter.com/GregCurl)
 > The two most important days in your life are the day you are born and the day you find out why.
 >> _Mark Twain_
