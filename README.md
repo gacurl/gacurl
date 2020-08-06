@@ -19,7 +19,7 @@ I spend my time getting a _little_ bit better each day.
 
 My passions are:  
 - learning,
-- building teams,
-- and helping others succeed.
+- building teams, and 
+- helping others succeed.
 
 
