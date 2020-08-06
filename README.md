@@ -20,7 +20,7 @@ I intend to step foot on every continent. Here's where I've been so far.
 <span><img src="https://github.com/gacurl/gacurl/blob/master/world-map.gif" alt="test" width="100%" height="auto" /></span>
 
 ---
-As for books, I enjoy sending meaningful books that _impacted_ me to friends and colleagues.
+As for books, I enjoy reads that stimulate emotion as well as learning. No particular genre suits more than another, so bring 'em all. I've been known to sending meaningful books that _impacted_ me to friends and colleagues.
 
 [Here's what I'm reading](https://www.goodreads.com/review/list/37345834?ref=nav_mybooks "Goodreads list") at Goodreads.
 
