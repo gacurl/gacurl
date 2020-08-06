@@ -13,9 +13,14 @@ Thanks for stopping by. I build aircraft carriers while learning Web Development
 #### Talking about personal stuff
 I'm a Dad, husband, and US Navy veteran. I wake each day to get a _little_ bit better. I feel most fulfilled when I am learning, building a team, or helping others succeed.  
 
-When not building ships or code, I enjoy traveling. I intend to step foot on every continent.  
+When not building ships or code, I enjoy traveling, reading, and being outdoors.  
+
+I intend to step foot on every continent.  
 ![World Map of countries I've visited](https://github.com/gacurl/gacurl/blob/master/world-map.gif)
 
+As for books, I enjoy sending meaningful books that _impacted_ me to friends and colleagues.
+
+[Here's what I'm reading](https://www.goodreads.com/review/list/37345834?ref=nav_mybooks "Goodreads list")
 
 
 
