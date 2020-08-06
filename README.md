@@ -18,7 +18,6 @@ When not building ships or code, I enjoy traveling, reading, and being outdoors.
 I intend to step foot on every continent. Here's where I've been so far.  
 
 <p><img src="https://github.com/gacurl/gacurl/blob/master/world-map.gif" alt="test" width="100%" height="auto"></p>
-
 ---
 As for books, I enjoy sending meaningful books that _impacted_ me to friends and colleagues.
 
