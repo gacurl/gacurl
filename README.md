@@ -35,7 +35,7 @@ Spending time away from the screen gives thoughts time to anchor. Get away for a
 ---
 
 :envelope:  Let's connect  
-:bird:  [My dang ol' Twitter](https://twitter.com/GregCurl)  
+:bird:  [My dang ol' Twitter](https://twitter.com/GregCurl2)  
 :information_desk_person:  [My dang ol' LinkedIn](https://www.linkedin.com/in/gcurl)
 
 Thanks again for stopping by. And since you did, please take a walk **outside** and consider:
