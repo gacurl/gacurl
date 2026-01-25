@@ -1,43 +1,61 @@
-<!--
-**gacurl/gacurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## Hi, I’m Greg 👋
 
-# Hi, I'm Greg.
+I’m a project engineer and software builder who enjoys the detective work of
+solving messy problems — whether that’s in application code, data, or
+long-running systems that need care over time.
 
-## I **love** coffee and learning to `code`.
-
-![Cup of coffee!](https://github.com/gacurl/gacurl/blob/master/cupa.jpg) _Nectar_ of the Gods
-
-
-Thanks for stopping by. I build aircraft carriers while learning Web Development **[@Code the Dream](https://codethedream.org/)**.
----
-#### Talking about personal stuff
-I'm a Dad, husband, and US Navy veteran. I wake each day to get a _little_ bit better. I feel most fulfilled when I am learning, building a team, or helping others succeed.  
-
-When not building ships or `code`, I enjoy traveling, reading, and being outdoors.  
----
-I intend to step foot on every continent. Here's where I've been so far.  
-
-![World map where I've visited](https://github.com/gacurl/gacurl/blob/master/world-map.gif)
+I’m drawn to work where the answer isn’t obvious at first and the real value
+comes from asking better questions, not just writing more code.
 
 ---
 
-As for books, I enjoy reads that stimulate emotion as well as learning. No particular genre suits more than another, so bring 'em all. I've been known to sending meaningful books that _impacted_ me to friends and colleagues.
+### What I work on
 
-[Here's what I'm reading](https://www.goodreads.com/review/list/37345834?ref=nav_mybooks "Goodreads list") at Goodreads.
+- Web applications (Rails, JavaScript, modern tooling)
+- Data analysis, automation, and problem exploration using Python
+- Systems that start scrappy and get better through iteration
 
-![Cozy reading spot](https://github.com/gacurl/gacurl/blob/master/library.jpg)
+I’m especially interested in work where data and software meet:
+finding patterns, validating assumptions, and turning ambiguity into
+something usable.
 
 ---
 
-Spending time away from the screen gives thoughts time to anchor. Get away for a spell and try again later.
+### Selected projects
 
-![Fjords](https://github.com/gacurl/gacurl/blob/master/outside.jpg)
+👉 **HumanityPro**  
+A Rails-based coaching and CRM-style application focused on real-world usability,
+admin workflows, and long-term maintainability.
+
+👉 **PlumaFill**  
+A puzzle game project exploring UX polish, game logic, and incremental design —
+built deliberately with milestones and constraints instead of quick hacks.
+
+👉 **Data & Python work**  
+Python-based projects and exercises focused on analysis, automation, and
+exploratory problem-solving — treating data like evidence rather than answers.
+
+(See pinned repositories for the best starting points.)
+
 ---
 
-:envelope:  Let's connect  
-:bird:  [My dang ol' Twitter](https://twitter.com/GregCurl2)  
-:information_desk_person:  [My dang ol' LinkedIn](https://www.linkedin.com/in/gcurl)
+### How I think about engineering & data
 
-Thanks again for stopping by. And since you did, please take a walk **outside** and consider:
-> The two most important days in your life are the day you are born and the day you find out why.
->> _Mark Twain_
+- Good questions matter more than flashy tools
+- Data is a trail of clues, not a conclusion by itself
+- Small, explainable steps beat opaque “magic”
+
+I enjoy the investigative side of technical work: forming a hypothesis,
+testing it, and refining the approach when reality disagrees.
+
+---
+
+### What I’m focused on now
+
+- Deepening my Python and data analysis skills
+- Applying data thinking to real systems, not toy examples
+- Continuing to mature existing projects instead of constantly starting new ones
+
+---
+
+Thanks for stopping by.
